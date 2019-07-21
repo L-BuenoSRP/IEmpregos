@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace IEmpregos.Web.Data.Migrations
+namespace IEmpregos.Data.Context.IdentityContext.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {
